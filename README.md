@@ -6,4 +6,4 @@
 [お問い合わせはこちら（Googleフォーム）](https://forms.gle/8qc8nBp3eRUdRp4A8)
 
 ## Privacy policy
-[プライバシーポリシーはこちら](https://iwaoyuiko.github.io/banana-counter-site/privacy-policy.html)
+[プライバシーポリシーはこちら](https://iwaoyuiko.github.io/pinyinOCR/privacy-policy.html)
