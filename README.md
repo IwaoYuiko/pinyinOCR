@@ -3,7 +3,7 @@
 
 ## Contact
 お問い合わせは、以下の窓口にご連絡ください。
-[お問い合わせはこちら（Googleフォーム）](https://docs.google.com/forms/d/e/1FAIpQLSdnQ0FBaKCwd4GTVZEiIR-LMbRAZtwClgGXSOzVyS-vmXajPw/viewform?usp=sharing&ouid=112767819912839068574)
+[お問い合わせはこちら（Googleフォーム）](https://forms.gle/8qc8nBp3eRUdRp4A8)
 
 ## Privacy policy
 [プライバシーポリシーはこちら](https://iwaoyuiko.github.io/banana-counter-site/privacy-policy.html)
