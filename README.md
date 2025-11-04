@@ -3,7 +3,7 @@
 
 ## Contact
 お問い合わせは、以下の窓口にご連絡ください。
-[お問い合わせはこちら（Googleフォーム）](https://forms.gle/8qc8nBp3eRUdRp4A8)
+[お問い合わせはこちら（Googleフォーム）](https://forms.gle/EbRetJgsNSaL8PxEA)
 
 ## Privacy policy
 [プライバシーポリシーはこちら](https://iwaoyuiko.github.io/pinyinOCR/privacy-policy.html)
