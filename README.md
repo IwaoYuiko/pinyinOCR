@@ -1,6 +1,7 @@
-# Official Apps
+# Pinyin Apps – Official Site
 
 Welcome!
+
 This website provides information, support, and the privacy policy for apps developed as personal projects.
 
 ## Apps
